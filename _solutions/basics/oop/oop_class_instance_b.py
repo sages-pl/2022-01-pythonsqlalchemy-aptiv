@@ -1,0 +1,3 @@
+
+watney = Astronaut()
+nasa = SpaceAgency()

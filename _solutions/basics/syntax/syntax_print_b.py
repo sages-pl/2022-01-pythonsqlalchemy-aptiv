@@ -1,0 +1,2 @@
+
+result = f'Hello {NAME}'

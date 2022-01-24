@@ -1,0 +1,2 @@
+
+result = input('Type NASA: ')
